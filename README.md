@@ -10,3 +10,6 @@ The virus has been spreading ferociously and so is religious and communal hatred
 
 It is of extreme importance to regulate a system to monitor and curb these issues to contain the spread of this novel disease. 
 
+# PEBBLE19 
+
+Pebble19 is a machine learning model used to detect and notify authorities concerned (via email, telegram) when an incident of curfew violation is detected. 
