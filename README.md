@@ -1,4 +1,4 @@
-# COVID 19 Curfew Violation Detection
+# COVID 19 Curfew Violation Detection using ML
 
 In light of recent incidents of the COVID19, the world has faced grave repercussions and is in a threatening situation. India has taken many steps to prevent the loss of lives including the commencement of a 21-day lockdown.
 
