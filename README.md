@@ -12,4 +12,9 @@ It is of extreme importance to regulate a system to monitor and curb these issue
 
 # PEBBLE19 
 
-Pebble19 is a machine learning model used to detect and notify authorities concerned (via email, telegram) when an incident of curfew violation is detected. 
+Pebble19 is a machine learning model used to detect and notify authorities concerned (via email, telegram) when an incident of curfew violation is detected.
+
+### A curfew violation, either by detecting the density of people around the certain region or the 
+
+A curfew violation, by detecting the people around in a certain area or the and putting a count on number of vehicles. 
+
